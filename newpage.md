@@ -1,7 +1,6 @@
 ---
-layout: template
-title: im testing
-filename: newpage
+layout: page
+title: NEWPAGE
 permalink: /test/newpage/
 ---
 
